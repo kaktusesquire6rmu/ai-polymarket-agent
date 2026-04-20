@@ -2,8 +2,8 @@
 Connect Polymarket to your AI. The official-like MCP implementation for real-time prediction market analysis, automated odds tracking, and AI-powered trading insights.
 
 # 📊 Dashboard
-<img width="1248" height="832" alt="polymarket_mcp_dashboard_v2" src="https://github.com/user-attachments/assets/c3433282-fc5a-430a-b4b0-f86b5ce62ae5" />
-<img width="1536" height="1024" alt="polymarket_mcp_banner" src="https://github.com/user-attachments/assets/e909dad5-e75b-40ed-aca2-6e89b6c536cd" />
+<img width="1536" height="1024" alt="polymarket_mcp_banner" src="https://github.com/user-attachments/assets/95907a83-b0f9-4e11-b937-871420f33b17" />
+<img width="1248" height="832" alt="polymarket_mcp_dashboard_v2" src="https://github.com/user-attachments/assets/cd654773-60f1-4b54-b4f1-0cd32b8438ed" />
 
 
 
